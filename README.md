@@ -5,9 +5,7 @@ I'm a passionate developer from bangalore. Welcome to my GitHub profile!
 - 🔭 I’m currently working on [project or goal].
 - 🌱 I’m currently learning Cloud Computing.
 - 👯 I’m looking to collaborate on [project or interest].
-- 💬 Ask me about [your expertise or interests].
-- 📫 How to reach me: [your contact information].
-- ⚡ Fun fact: [something interesting about you].
+- ⚡ I aspire: 'to inspire "Success is not final, failure is not fatal: it is the courage to continue those counts"'.
 
 ### Connect with Me
 
